@@ -1,2 +1,2 @@
-1. repository creation
+1. rewrite
 2. repository initialization
